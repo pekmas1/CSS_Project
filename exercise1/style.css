@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+}
+.nav-link {
+    font-size: 12px;
+}
+p {
+    font-weight: bold;
+}
+#welcome-section {
+    background-color: yellow
+}
+#related-links {
+    text-align: center;
+}
+a:hover {
+    color: green;
+}
