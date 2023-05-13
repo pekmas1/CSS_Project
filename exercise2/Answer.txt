@@ -1,0 +1,3 @@
+Short Answer
+1.สีแดง cascading ไม่มีclass
+2.สีน้ำเงิน Specificity class text
