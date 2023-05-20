@@ -1,13 +1,11 @@
 h1 {
     color: blue;
 }
-.nav-link {
+nav,footer {
     font-size: 12px;
-}
-p {
     font-weight: bold;
 }
-#welcome-section {
+.section-text {
     background-color: yellow
 }
 #related-links {

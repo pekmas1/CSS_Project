@@ -1,3 +1,6 @@
 Short Answer
-1.สีแดง cascading ไม่มีclass
-2.สีน้ำเงิน Specificity class text
+1.สีน้ำเงิน Specificity div h1 รายละเอียดเยอะกว่าทำให้มีความเฉพาะกว่า h1เฉยๆ
+2.สีน้ำเงิน Specificity p.text มันเฉาพะกว่า pเฉยๆ
+3.สีน้ำเงิน Specificity .box p มันเฉพาะกว่า pเฉยๆ
+4.สีแดง cascading .box ไม่ได้ตั้งค่า p ไว้ cssเลยเลือกอันที่มาก่อน
+5.สีแดง Specificity เพราะidมีความเฉพาะที่สุด
